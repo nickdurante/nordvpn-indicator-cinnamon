@@ -6,3 +6,5 @@ Requires the ```nordvpn``` program from the [NordVPN website](https://nordvpn.co
 ## Installation
 
 Copy ```files/nordvpn-indicator@nickdurante``` in ```.local/share/cinnamon/applets/```, activate through the Applet Menu.
+
+edited by sysrpl
